@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartResolver"/>
+<fullyQualifiedTypeName name="org.springframework.web.multipart.commons.CommonsMultipartResolver"/>
+<fullyQualifiedTypeName name="onlineShop.model.Customer"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="onlineShop.model.Authorities"/>
+<fullyQualifiedTypeName name="onlineShop.model.Cart"/>
+<fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="onlineShop.model.User"/>
+<fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaBuilder"/>
+<fullyQualifiedTypeName name="org.hibernate.criterion.CriteriaQuery"/>
+<fullyQualifiedTypeName name="javax.persistence.criteria.Root"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="onlineShop.dao.CustomerDao"/>
+<fullyQualifiedTypeName name="onlineShop.model.Product"/>
+</qualifiedTypeNameHistroy>

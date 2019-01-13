@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/minkangyang/code/LaiProjectAll/spring/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1356429440.index
+932220331.index
+1647834758.index
+2036572808.index
+3428072816.index
+502585699.index
+2822930287.index
